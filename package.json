@@ -1,0 +1,20 @@
+{
+  "name": "Ajar.io",
+  "version": "1.0.0",
+  "description": "This repo is owned by Ajar-Ajar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajar-Ajar/Ajar.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajar-Ajar/Ajar.io/issues"
+  },
+  "homepage": "https://github.com/Ajar-Ajar/Ajar.io#readme"
+}
